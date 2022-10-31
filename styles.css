@@ -7,6 +7,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+header {
+    margin-top: 57px;
+    margin-left: 42px;
+}
+
 .link-header {
     margin-top: 57px;
     margin-left: 42px;
@@ -36,10 +41,10 @@
 }
 
 img {
-    width: 595.18px;
-    height: 500px;
-    margin-left: 121px;
-    margin-top: 100px;
+    width: 499px;
+    height: 400px;
+    margin-left: 159px;
+    margin-top: 63px;
 }
 
 h1 {
@@ -68,7 +73,7 @@ p {
 
 .button-learn-more {
     height: 27px;
-    margin-left: 55.62%;
+    margin-left: 804px;
     right: 36.6%;
     margin-top: 55px;
     font-weight: 500;
@@ -93,10 +98,10 @@ p {
     section {
 
         align-items: flex-end;
-        width: 149px;
-        height: 486px;
-        margin-top: 292px;
-        margin-left: -169px;
+        width: 119px;
+        height: 377px;
+        margin-top: 500px;
+        margin-left: -153px
     }
 
     h1 {
@@ -109,7 +114,7 @@ p {
         letter-spacing: 0.596154px;
         color: #161A49;
         margin-top: -680px;
-        margin-left: 100px;
+        margin-left: 130px;
     }
 
     .button-learn-more {
@@ -121,7 +126,7 @@ p {
         width: 128px;
         height: 27px;
         margin-top: 26px;
-        margin-left: 139px;
+        margin-left: 200px;
         cursor: pointer;
         background: none;
         border: none;
@@ -137,7 +142,7 @@ p {
         letter-spacing: 0.5px;
         color: #4B505A;
         margin-top: 29px;
-        margin-left: 83px;
+        margin-left: 120px;
     }
 
 }
